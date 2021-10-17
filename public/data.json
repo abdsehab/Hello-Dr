@@ -1,0 +1,64 @@
+[
+    {
+    "_id": "1i",
+    "thumbnail": "https://i.ibb.co/zZDpdfm/doctor-holding-digital-tablet-meeting-room-portrait-beautiful-mature-woman-looking-camera-confident.jpg",
+    "Fee": 1000,
+    "name": "Harison Karom",
+    "Speciality": "Eye Specialist",
+    "AboutDr": "Mr. Harison is a fulltime doctor at MMC Hospital . Now He is available on Hello Dr. to take careof your eye. "
+    
+  },
+
+
+  {
+    "_id": "2i",
+    "thumbnail": "https://i.ibb.co/vssx48X/pleased-young-female-doctor-wearing-medical-robe-stethoscope-around-neck-standing-with-closed-postur.jpg",
+    "Fee": 2000,
+    "name": "Dr. kasmira KKut",
+    "Speciality": "Heart  Specialist",
+    "AboutDr": "Dr.KKut is a fulltime doctor at NMC Hospital . Now She is available on Hello Dr. to take care of your Heart . Enjoy!!. "
+    
+  },
+
+  {
+    "_id": "3i",
+    "thumbnail": "https://i.ibb.co/JB0QdPZ/portrait-smiling-handsome-male-doctor-man-171337-5055.jpg",
+    "Fee": 500,
+    "name": "Dr.Part Skut",
+    "Speciality": "Junior Eye Specialist",
+    "AboutDr": "Dr.Part is a new comer MBBS doctor from DRmC . Now he is available on Hello Dr. to take care of your Eye . Enjoy!!. "
+    
+  },
+
+   {
+    "_id": "4i",
+    "thumbnail": "https://i.ibb.co/X8770pC/purepng-com-doctordoctorsdoctors-and-nursesclinicianmedical-practitionernotepadfemale-1421526857248u.png",
+    "Fee": 1500,
+    "name": "Dr. Sweet Hoor",
+    "Speciality": " Dentist",
+    "AboutDr": "Dr.Hoor is a new comer MBBS doctor from DRmC . Now he is available on Hello Dr. to take care of your Teeth . Enjoy!!. "
+    
+  },
+
+  {
+    "_id": "5i",
+    "thumbnail": "https://i.ibb.co/93T5DXn/smiling-asian-woman-physician-white-coat-9083-2472.jpg",
+    "instuctor": "Dr. Kwet Noor",
+    "Speciality": " Dentist",
+    "AboutDr": "Dr.Hoor is a new comer MBBS doctor from BRAC . Now he is available on Hello Dr. to take care of your Teeth . Enjoy!!. "
+    
+  },
+  {
+    "_id": "6i",
+    "thumbnail": "https://i.ibb.co/93T5DXn/smiling-asian-woman-physician-white-coat-9083-2472.jpg",
+    "instuctor": "Dr. Haniya Mirza",
+    "Speciality": " Ear Nose & Throat Specialist",
+    "AboutDr": "Dr.Mirza is a new comer MBBS doctor from Oxfory . Now he is available on Hello Dr. to take care of your ear, nose & throat . Enjoy!!. "
+    
+  }
+
+
+
+
+  
+]
