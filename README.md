@@ -1,3 +1,14 @@
+# Project Name : Hello Dr.
+# Live : https://goofy-lichterman-b54819.netlify.app
+
+# About Project
+- This is a Med Care Website where you can contect to doctor 
+- Try to impliment shop so customar can buy medisime  from here
+- Customer can login this site and ask for anything and get access for special lock route
+- Use React Route so that user feel that he/she visit many pages but this is a one page application
+- 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
