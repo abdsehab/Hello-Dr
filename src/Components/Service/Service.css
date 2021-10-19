@@ -1,0 +1,11 @@
+.set-box{
+    min-height: 275px;
+    max-height: 300px;
+
+}
+
+.set-box img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}

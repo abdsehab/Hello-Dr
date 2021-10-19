@@ -1,0 +1,10 @@
+.cover-background{
+    background: url(../../../Img/cover.jpg);
+    min-height: 90vh;
+    
+}
+
+.center-align{
+    margin: auto;
+    text-align: center;
+}
