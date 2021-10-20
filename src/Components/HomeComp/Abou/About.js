@@ -14,8 +14,8 @@ const About = () => {
             </div>
             <div className="row">
                 <div className="col-md-6">
-                    <h1>Heading</h1>
-                    <h5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, aliquam ab facilis quod ad laborum repellendus quisquam eveniet animi magni, maxime explicabo amet nihil at. Quidem iure deserunt minima ut eveniet accusamus nobis quam quisquam aliquam impedit perferendis quasi eaque adipisci nam cupiditate fugiat temporibus doloremque, consectetur unde ipsam enim!</h5>
+                    <h1>Hello Dr.</h1>
+                    <h5>A hospital is a health care institution providing patient treatment with specialized medical and nursing staff and medical equipment</h5>
                 </div>
                 <div className="col-md-6 set-min-hight">
                     <Carousel>

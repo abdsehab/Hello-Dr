@@ -1,0 +1,57 @@
+[
+    {
+        "id":"1b",
+        "name": "Calbo D",
+        "Price": 1250,
+        "img":"https://i.ibb.co/0BM4fCc/Calbo-C-removebg-preview.png"
+    },
+    {
+        "id":"2b",
+        "name": "Calbo E",
+        "Price": 2500,
+        "img":"https://i.ibb.co/wpp4NBv/Tablet-Calbo-500-1-removebg-preview.png"
+    },
+    {
+        "id":"3b",
+        "name": "Calbo F",
+        "Price": 150,
+        "img":"https://i.ibb.co/qFHv1Qx/apon-removebg-preview.png"
+    },
+    {
+        "id":"4b",
+        "name": "Calbo G",
+        "Price": 120,
+        "img":"https://i.ibb.co/0BM4fCc/Calbo-C-removebg-preview.png"
+    },
+    {
+        "id":"5b",
+        "name": "Calbo H",
+        "Price": 125,
+        "img":"https://i.ibb.co/qFHv1Qx/apon-removebg-preview.png"
+    },
+    {
+        "id":"6b",
+        "name": "Calbo I",
+        "Price": 250,
+        "img":"https://i.ibb.co/0BM4fCc/Calbo-C-removebg-preview.png"
+    },
+    {
+        "id":"7b",
+        "name": "Calbo G",
+        "Price": 2250,
+        "img":"https://i.ibb.co/wpp4NBv/Tablet-Calbo-500-1-removebg-preview.png"
+    },
+    {
+        "id":"8b",
+        "name": "Tarbo D",
+        "Price": 250,
+        "img":"https://i.ibb.co/wpp4NBv/Tablet-Calbo-500-1-removebg-preview.png"
+    },
+    {
+        "id":"9b",
+        "name": "Talbo D",
+        "Price": 50,
+        "img":"https://i.ibb.co/qFHv1Qx/apon-removebg-preview.png"
+    }
+
+]

@@ -11,7 +11,8 @@ const Service = (props) => {
             <div className="my-4 set-box bg-primary " >
                 <img src={thumbnail} alt=""  width="150px" className="my-3"/>
                 <h1 className="fw-bold fs-5 ">Name :{name} </h1>
-                <h3 className="fw-normal fs-6">Sepciality: {Speciality} </h3>
+                <h3 className="fw-normal fs-6 text-light">Sepciality: {Speciality} </h3>
+                <button className="bg-light fw-bolder text-dark">Connect</button>
             </div>
         </div>
     );

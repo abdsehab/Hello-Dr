@@ -18,6 +18,9 @@ import Notfound from './Components/NotFound/Notfound';
 import Login from './Components/Login/Login';
 import Signup from './Components/Signup/Signup';
 import Authprovider from './Context/Authprovider';
+import Private from './Components/Private/Private';
+import Shop from './Components/Shop/Shop';
+import Blogs from './Components/Blogs/Blogs';
 
 
 
@@ -50,7 +53,13 @@ function App() {
           </Route>
           <Route path="/signup">
             <Signup></Signup>
-          </Route>
+            </Route>
+            <Private path="/shop">
+              <Shop></Shop>
+            </Private>
+            <Private path="/blogs">
+              <Blogs></Blogs>
+            </Private>
           <Route path="*">
               <Notfound></Notfound>
           </Route>
